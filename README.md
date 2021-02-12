@@ -17,10 +17,6 @@ Might work on *BSD and macOS.
 
 ## Install
 
-`go get cynthia.re/src/please-go`
-
-## Install from source
-
 - clone the repo (`git clone https://github.com/bitcynth/please-go.git`)
 - compile (`go build` or `make build`)
 - install (`make install` as root)
